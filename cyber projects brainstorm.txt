@@ -1,0 +1,15 @@
+Beginner
+pcap capture/analysis with wireshark + python
+suricata alerts + python
+Scan files of directory for known malicious file hashes with virus total api
+
+Intermediate
+vulnerable c code + exploitation video
+set up vulnerable web server + exploitation 
+dvwa pentesting video on kali linux
+
+Advanced
+basic antivirus scanner
+Develop a harmless virus
+Develop a harmless worm
+
