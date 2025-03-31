@@ -1,3 +1,0 @@
-sudo kill -usr2 $(pidof suricata) : Reload suricata rulesets without restarting process, use command whenever running suricata-update or adding custom rulesets
-
-suricata-update : fetches rulesets from external providers
